@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0efd9dd4-bf7d-4199-8521-175726bbe7ca/resourceGroups/DevAssociateLab/providers/Microsoft.Web/sites/associateLab",
+    "appService.deploySubpath": "learningapp"
+}

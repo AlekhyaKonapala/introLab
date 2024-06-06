@@ -1,0 +1,7 @@
+C:\Users\0025PU744\Documents\AzureAssociateProjects\IntroLab\bin\Publish\IntroLab.exe
+C:\Users\0025PU744\Documents\AzureAssociateProjects\IntroLab\bin\Publish\appsettings.Development.json
+C:\Users\0025PU744\Documents\AzureAssociateProjects\IntroLab\bin\Publish\appsettings.json
+C:\Users\0025PU744\Documents\AzureAssociateProjects\IntroLab\bin\Publish\IntroLab.dll
+C:\Users\0025PU744\Documents\AzureAssociateProjects\IntroLab\bin\Publish\IntroLab.deps.json
+C:\Users\0025PU744\Documents\AzureAssociateProjects\IntroLab\bin\Publish\IntroLab.runtimeconfig.json
+C:\Users\0025PU744\Documents\AzureAssociateProjects\IntroLab\bin\Publish\IntroLab.pdb
