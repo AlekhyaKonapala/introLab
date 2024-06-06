@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntroLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bd9911c321f1a5ab9cf56a27337fa418dd3406e")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntroLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntroLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
